@@ -1,1 +1,1 @@
-ATravés de algumas bibliotecas desenvovi um sistema de recomendação de filmes, o daset para consulta é o [CLique aqui ]([https://meuportfolio.com](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k))
+ATravés de algumas bibliotecas desenvovi um sistema de recomendação de filmes, o daset para consulta é o [Clique aqui ]([https://meuportfolio.com](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k))
